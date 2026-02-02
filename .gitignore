@@ -1,0 +1,12 @@
+# Foldere de lucru ModelSim/Questa
+work/
+etc/
+
+# Fișiere temporare și log-uri
+*.wlf
+*.bak
+*.log
+transcript
+
+# Fișiere de backup ale editorului
+*~
